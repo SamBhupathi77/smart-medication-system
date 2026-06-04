@@ -1,0 +1,21 @@
+# Virtual Environments
+venv/
+.venv/
+
+# Python
+__pycache__/
+*.pyc
+
+# Database
+*.db
+
+# OAuth Secrets
+credentials.json
+token.json
+
+# Environment Variables
+.env
+
+# VS Code
+.vscode/
+desktop.ini
