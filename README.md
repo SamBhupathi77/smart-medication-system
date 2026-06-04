@@ -145,15 +145,15 @@ Google Calendar API
 ---
 
 ## ⚙️ Installation
-fastapi
-streamlit
-python
-sqlite
-sqlalchemy
-google-calendar-api
-healthcare
-rest-api
-full-stack
+Fastapi,
+Streamlit,
+Python,
+Sqlite,
+Sqlalchemy,
+Google-calendar-api,
+Healthcare,
+Rest-api,
+Full-stack.
 ### Clone Repository
 
 ```bash
